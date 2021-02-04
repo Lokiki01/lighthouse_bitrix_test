@@ -1,0 +1,1 @@
+<?php $filesInfo = ["/bitrix/templates/.default/components/bitrix/news.detail/bootstrap_v4/script.js" => "16124411533253",]; ?>
